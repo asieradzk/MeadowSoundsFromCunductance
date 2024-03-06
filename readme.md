@@ -1,0 +1,1 @@
+mini project to play sound samples based on variations in conductance readings
